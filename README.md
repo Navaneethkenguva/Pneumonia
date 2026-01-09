@@ -120,3 +120,16 @@ pip freeze > requirements.txt
 
 
 ⭐ **Star this repo if it helped you!**
+---
+
+## 👤 My Contribution
+
+This project was developed as a collaborative team effort. My contributions focused on:
+
+- Integrating the trained deep learning model with the Flask backend
+- Implementing image upload, preprocessing, and inference workflow
+- Handling application routing and prediction response flow
+- Assisting in deployment setup and end-to-end application testing
+
+Original repository: https://github.com/abhiroop-05/Pneumonia
+
